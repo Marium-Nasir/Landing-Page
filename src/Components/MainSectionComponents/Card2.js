@@ -3,7 +3,7 @@ import React from 'react'
 const Card2 = () => {
   return (
     <>
-       <div className="flex flex-wrap md:justify-center sm:justify-center  p-[20px] mt-[30px]">
+       <div className="flex flex-wrap lg:flex-nowrap justify-center lg:justify-between  p-[20px] mt-[30px]">
           <div>
             <div className="p-[100px] lg:ml-[40px] mt-[40px] flex justify-center rounded-sm bg-[#C4C4C466]">
               <p className="font-[DIN Condensed] font-bold text-[#828282]">
